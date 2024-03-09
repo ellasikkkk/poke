@@ -1,2 +1,2 @@
 xellaja.json
-["xellaja","xellaja","xellaja","xellaja","xellaja"
+[xellaja,xellaja]
